@@ -3,7 +3,7 @@
     <title>HyperStatic</title>
     <link href="https://kruxfpv.github.io/Static1/feed.xml" rel="self" />
     <link href="https://kruxfpv.github.io/Static1" />
-    <updated>2022-01-09T10:34:16-05:00</updated>
+    <updated>2022-01-10T21:06:34-05:00</updated>
     <author>
         <name>hypersonic</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://kruxfpv.github.io/Static1/azure-static-cms-test-1.html"/>
         <id>https://kruxfpv.github.io/Static1/azure-static-cms-test-1.html</id>
 
-        <updated>2022-01-09T10:34:16-05:00</updated>
+        <updated>2022-01-10T21:06:34-05:00</updated>
             <summary>
                 <![CDATA[
-                     Ths is a test using a Static CMS that will be pulled to github and publised in azure 
+                     Ths is a test using a Static CMS that will be pulled to GitHub and published in azure 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Ths is a test using a Static CMS that will be pulled to github and publised in azure
+    Ths is a test using a Static CMS that will be pulled to GitHub and published in azure
   </p>
             ]]>
         </content>

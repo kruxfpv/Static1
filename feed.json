@@ -14,15 +14,15 @@
             "id": "https://kruxfpv.github.io/Static1/azure-static-cms-test-1.html",
             "url": "https://kruxfpv.github.io/Static1/azure-static-cms-test-1.html",
             "title": "Azure Static CMS Test 1",
-            "summary": " Ths is a test using a Static CMS that will be pulled to github and publised in azure ",
-            "content_html": "\n  <p>\n    Ths is a test using a Static CMS that will be pulled to github and publised in azure\n  </p>",
+            "summary": " Ths is a test using a Static CMS that will be pulled to GitHub and published in azure ",
+            "content_html": "\n  <p>\n    Ths is a test using a Static CMS that will be pulled to GitHub and published in azure\n  </p>",
             "author": {
                 "name": "hypersonic"
             },
             "tags": [
             ],
             "date_published": "2022-01-09T10:34:16-05:00",
-            "date_modified": "2022-01-09T10:34:16-05:00"
+            "date_modified": "2022-01-10T21:06:34-05:00"
         }
     ]
 }
